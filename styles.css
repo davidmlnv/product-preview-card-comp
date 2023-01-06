@@ -6,10 +6,9 @@ body{
 
 /* div-white-box */
 #white-box{
-    position: absolute;
+    position: relative;
     width: 633px;
     height: 483px;
-    left: 404px;
     background: #FFFFFF;
     border-radius: 12px;
     display: block;
