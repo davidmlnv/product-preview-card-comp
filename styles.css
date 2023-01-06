@@ -222,9 +222,8 @@ margin: 0px;
 }
 
 .attribution{
-    position: absolute;
-    left: 470px;
-    top: 700px; 
+    text-align: center;
+    margin: 60px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 200;
